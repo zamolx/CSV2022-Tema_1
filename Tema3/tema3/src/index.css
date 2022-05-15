@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  padding: 10px;
+}
+
+.example {
+  border: 1px solid;
+  padding: 20px;
+  text-align: center;
+  margin: 10px;
+}
+
+.color-example {
+  border: 1px solid;
+  padding: 20px;
+  text-align: center;
+  margin: 10px;
+  width: 100px;
+  height: 100px;
+}
+
+.example-flex {
+  display: flex;
+}
+
+.product-container {
+  flex: 1 200px;
+}
+
+.cursor {
+  cursor: pointer;
+}
+
+.your-name {
+  color: greenyellow;
+}
